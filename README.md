@@ -1,7 +1,7 @@
 Fancy jekyll powered single page site
 ======================
 
-Here're some examples:
+Here're some examples: 
 
 - This repository is also a live demo, see it at [t413.com/SinglePaged](http://t413.com/SinglePaged)
 - [SMS-Tools](http://t413.com/SMS-Tools/) uses this template!
